@@ -1,0 +1,11 @@
+# App.js > function HomeScreen({ navigation })
+    Modifier la lettre U en fonction de l'initiale de l'utilisateur
+    Récupérer la valeur du TextInput pour la recherche
+
+# App.js > function ConnexionScreen({ navigation })
+    Relier le formulaire à l'API pour se connecter
+
+# App.js > function UtilisateurScreen({navigation})
+    Remplacer "Utilisateur" par le nom d'utilisateur
+    Remplacer la valeur de l'IMC par valeur de l'IMC de l'utilisateur
+    <View style={UserStyle.suggBox}> -> Remplacer par un props
